@@ -3,5 +3,5 @@ I work for an online store that sells video games worldwide. The project aims to
 
 #Sprint 6. Integrated project 1
 
-#Add the docs
+#Add the doc
 
