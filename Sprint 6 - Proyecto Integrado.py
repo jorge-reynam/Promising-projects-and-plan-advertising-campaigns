@@ -12,3 +12,4 @@ df_games = pd.read_csv(r"C:\Users\Jorge\Downloads\games.csv")
 
 df_games.info()
 
+
