@@ -47,7 +47,13 @@ The analysis was carried out in the following steps:
 
 ## Key Visualizations
 
-![Global sales distribution by platform](Images/prediction_vs_actual.png)
+![Global sales distribution by platform](Images/Global_sales_distribution_by_platform.png)
+![Global sales distribution by platform](Images/Heatmap_sales_per_video_game_and_platform.png)
+![Global sales distribution by platform](Images/Number_of_total_sales_of_different_video_games_platforms.png)
+![Global sales distribution by platform](Images/Sales_for_eacg_platform_per_year.png)
+![Global sales distribution by platform](Images/Scatter_plot.png)
+
+
 
 ### Platform Trends
 - Older platforms (pre-2000) tend to have longer life cycles.  
