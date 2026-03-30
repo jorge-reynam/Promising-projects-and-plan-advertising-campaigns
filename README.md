@@ -47,11 +47,30 @@ The analysis was carried out in the following steps:
 
 ## Key Visualizations
 
-![Global sales distribution by platform](Images/Global_sales_distribution_by_platform.png)
-![Global sales distribution by platform](Images/Heatmap_sales_per_video_game_and_platform.png)
+### Global sales distribution by platform 
 ![Global sales distribution by platform](Images/Number_of_total_sales_of_different_video_games_platforms.png)
-![Global sales distribution by platform](Images/Sales_for_eacg_platform_per_year.png)
-![Global sales distribution by platform](Images/Scatter_plot.png)
+The chart shows the PS2 leading historical software sales with over $1.2 billion, followed by a high-performing cluster of the X360, PS3, and Wii.
+
+### Annual Sales Performance by Video Game Platform (2000–2016)
+![Sales for each platform per year](Images/Sales_for_each_platform_per_year.png)
+This grouped bar chart tracks the lifecycle of major consoles, showing the transition from the PS2 era to the peak dominance of the Wii, PS3, and X360.
+It highlights how each platform typically sustains a 7 to 10-year market presence before being phased out by next-generation hardware like the PS4 and XOne.
+
+
+### Impact of Critic and User Reviews on X360 Global Sales
+![Impact of Critic and User Reviews on X360 Global Sales](Images/Scatter_plot.png)
+These scatter plots illustrate a stronger positive correlation between high critic scores and total sales compared to user ratings, which show more dispersion.
+While top-rated games by critics consistently drive higher revenue, user scores demonstrate that commercial success is less dependent on audience sentiment alone.
+
+### Global Sales Distribution and Variance by Platform
+![Global sales distribution by platform](Images/Global_sales_distribution_by_platform.png)
+This box plot visualizes the distribution of sales per game across different platforms, highlighting the NES and GB as having the highest median sales and greatest variance.
+While most modern platforms show a lower median with numerous outliers, these classic systems maintained a higher "average" performance per title during their market lifespan.
+
+### Heatmap: Cross-Platform Sales Performance per Title
+![Heatmap: sales per video game and platform](Images/Heatmap_sales_per_video_game_and_platform.png)
+This heatmap visualizes sales for specific game titles across different hardware, highlighting the PS3 and X360 as the primary revenue drivers for multi-platform releases.
+By identifying "hot spots" (dark red), businesses can pinpoint which platforms offered the highest return on investment for specific franchises and global sporting events.
 
 
 
